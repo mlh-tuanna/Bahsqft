@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo/AppDelegate.cs">
+    <Files>
+      <File FileName="Demo/DemoViewController.cs" Line="33" Column="45" />
+      <File FileName="Demo/AboutViewController.cs" Line="11" Column="86" />
+      <File FileName="Demo/DemoViewController.designer.cs" Line="53" Column="33" />
+      <File FileName="Demo/AppDelegate.cs" Line="32" Column="40" />
+      <File FileName="Demo/SettingsViewController.cs" Line="11" Column="90" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Demo" expanded="True">
+            <Node name="AppDelegate.cs" selected="True" />
+            <Node name="DemoViewController.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
